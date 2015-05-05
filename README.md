@@ -1,2 +1,0 @@
-# microscope
-Discover Meteor Tutorial
